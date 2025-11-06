@@ -88,5 +88,3 @@
     extra4 { display-name = "Yellow"; status = "reserved"; };
   };
 };
-
-};
